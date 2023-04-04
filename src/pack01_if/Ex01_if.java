@@ -8,7 +8,7 @@ public class Ex01_if {
 		// if  ( 조건식 ※TRUE와FALSE의 결과를 얻을 수 있는것※ ){
 			//조건식이 TRUE일 때 실행하는 부분.
 		//}
-		int score = 80 ; //웹에서 입력받아온 ID와 PW를 비교할 때 사용함.
+		int score = 100 ; //웹에서 입력받아온 ID와 PW를 비교할 때 사용함.
 		if( score >= 90 ) {
 			//조건식이 TRUE 일때만 실행이 가능하다.
 			System.out.println("점수가 90보다 큽니다.");
